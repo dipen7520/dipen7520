@@ -13,7 +13,7 @@
 
 - 🥅 Seeking a position to apply the knowledge that I have learned and explore abilities, skills, towards my duties and to excel in field of Java and Web Development.
   
-🚀 Languages and Tools:
+<h1 align="center">language & TOOLS</h1>
     
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
