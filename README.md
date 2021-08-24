@@ -13,7 +13,7 @@
 
 - 🥅 Seeking a position to apply the knowledge that I have learned and explore abilities, skills, towards my duties and to excel in field of Java and Web Development.
   
-##🚀 Languages and Tools:
+🚀 Languages and Tools:
     
 <img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
@@ -29,7 +29,7 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img  src="https://img.icons8.com/fluent/48/000000/github.png"/>
 <br>
-## Connect with me:
+Connect with me:
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/dipen-jakasaniya-673bab184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
