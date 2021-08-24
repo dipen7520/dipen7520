@@ -28,9 +28,8 @@
 <img align="left" src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img  src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<br>
-<h2>Contact me :</h2>
 
+<h2>Contact me :</h2>
 <p align="left">
 <a href = "https://www.linkedin.com/in/dipen-jakasaniya-673bab184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/DipenJakasaniya"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
