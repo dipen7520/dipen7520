@@ -5,13 +5,11 @@
 
 - <img src="https://img.icons8.com/emoji/16/000000/man-student.png"/> Bachelor Of Engineering @ **[L.D. College Of Engineering](http://ldce.ac.in/)**
   
-- <img src="https://img.icons8.com/office/16/000000/system-information.png"/> Information Technology - Final Year 
+- <img src="https://img.icons8.com/office/16/000000/system-information.png"/> Information Technology Engineering - 2022
   
-- <img src="https://img.icons8.com/officel/16/000000/person-male.png"/> Somethings more about me on **[My Portfolio](https://dipenportfolio.herokuapp.com/)**
+- <img src="https://img.icons8.com/officel/16/000000/person-male.png"/> Somethings more about me on **[My LinkedIn](https://www.linkedin.com/in/dipen-jakasaniya-673bab184/)**
 
 - 📫 Please email via **dipenpatel2049@gmail.com** to reach me
-
-- 🥅 Seeking a position to apply the knowledge that I have learned and explore abilities, skills, towards my duties and to excel in field of Java and Web Development.
   
 <h2>Language & Tools :</h2>
     
